@@ -21,5 +21,5 @@ Welcome to my GitHub repository where I have documented and implemented various 
 14. String operations and methods
 
 Each program is carefully written, explained, and documented step by step to help beginners understand the basic concepts of Python Programming.
-⭐ Feel free to explore, learn, and collaborate!
-🔧 Happy Coding! 😊
+         Feel free to explore, learn, and collaborate!
+                        Happy Coding! 😊
