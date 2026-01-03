@@ -22,4 +22,4 @@ Welcome to my GitHub repository where I have documented and implemented various 
 
 Each program is carefully written, explained, and documented step by step to help beginners understand the basic concepts of Python Programming.
          Feel free to explore, learn, and collaborate!
-                        Happy Coding! 😊
+                        Happy Coding!
